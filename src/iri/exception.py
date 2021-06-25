@@ -1,0 +1,6 @@
+"""
+"""
+
+
+class MiddlewareError(Exception):
+    pass
